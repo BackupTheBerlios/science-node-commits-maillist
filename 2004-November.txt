@@ -1,0 +1,22 @@
+From wkornew at sheep.berlios.de  Thu Nov 11 11:53:29 2004
+From: wkornew at sheep.berlios.de (Waldemar Kornewald at BerliOS)
+Date: Thu, 11 Nov 2004 11:53:29 +0100
+Subject: [science-node-commits] r1 - / branches
+Message-ID: <200411111053.iABArTUW008751@sheep.berlios.de>
+
+Author: wkornew
+Date: 2004-11-11 11:53:29 +0100 (Thu, 11 Nov 2004)
+New Revision: 1
+
+Added:
+   branches/
+   branches/developer/
+   branches/team/
+   tags/
+   trunk/
+Log:
+Committing base tree structure.
+
+
+
+
